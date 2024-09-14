@@ -13,14 +13,14 @@ export const EXPERIENCES = [
     role: "Software Engineering Intern",
     company: "Optum",
     description: `Worked with team to create an application that mainly classifies and provides reasonings for the classifications using generative AI. Tested, containerized and deployed into production. `,
-    technologies: ["Javascript", "React.js", "Azure OpenAI", "Langchain", "FastAPI", 'GCP', 'Azure'],
+    technologies: ["React.js", "Azure OpenAI", "Langchain", 'GCP', "SQL", "Docker"],
   },
   {
     year: "June 2023 - August 2023",
     role: "Software Engineering Intern",
     company: "Optum",
     description: `Created an computer vision application that solves a big problem in document segmentation. `,
-    technologies: ["Yolov8", "pytorch", 'tensorflow', 'azure'],
+    technologies: ["Yolov8", "pytorch", 'tensorflow', 'Azure', "swagger"],
   },
 
 ];
