@@ -34,29 +34,29 @@ export const PROJECTS = [
     technologies: ["Python", "Streamlit", "Pandas"],
     link: "https://blackscholesapp-665ubc4oyfeewtm6p8txlk.streamlit.app/",
   },
-  {
-    title: "Task Management App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-    link: ""
-  },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    link:"",
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-    link: "",
-  },
+  // {
+  //   title: "Task Management App",
+  //   image: project2,
+  //   description:
+  //     "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+  //   technologies: ["HTML", "CSS", "Angular", "Firebase"],
+  //   link: ""
+  // },
+  // {
+  //   title: "Portfolio Website",
+  //   image: project3,
+  //   description:
+  //     "A personal portfolio website showcasing projects, skills, and contact information.",
+  //   technologies: ["HTML", "CSS", "React", "Bootstrap"],
+  //   link:"",
+  // },
+  // {
+  //   title: "Blogging Platform",
+  //   image: project4,
+  //   description:
+  //     "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+  //   technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+  //   link: "",
+  // },
 ];
 
